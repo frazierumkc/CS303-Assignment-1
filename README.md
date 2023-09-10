@@ -4,7 +4,7 @@ These integers can be changed freely, as long as the quantity of integers remain
 
 Instructions to run code:
 
-Screenshots of outputs for question 1:
+# Screenshots of outputs for question 1:
 
 ![Image](/screenshots/Screenshot2023-09-10093514.png?raw=true)
 
@@ -14,7 +14,7 @@ Screenshots of outputs for question 1:
 
 ![Image](/screenshots/Screenshot2023-09-10093626.png?raw=true)
 
-Screenshots of outputs for question 2:
+# Screenshots of outputs for question 2:
 
 ![Image](/screenshots/Screenshot2023-09-10093744.png?raw=true)
 
